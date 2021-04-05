@@ -9,6 +9,7 @@ from daten_ziehen import get_data
 
 import time
 import os
+####
 
 server = flask.Flask('app')
 
